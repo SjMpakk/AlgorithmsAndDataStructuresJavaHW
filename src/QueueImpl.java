@@ -35,7 +35,7 @@ public class QueueImpl implements QueueInterf{
 //        data[++rear] = value;
 //        size++;
         else {
-            rear++;
+            ++rear;
         }
         data[rear] = value;
         size++;

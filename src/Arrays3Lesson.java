@@ -15,5 +15,7 @@ public class Arrays3Lesson {
 //        QPriorityCommands.Commands();
         System.out.println("Дек");
 //        DequeueCommands.Commands();
+        System.out.println("Реверс");
+        StackReverse.Reverse();
     }
 }
